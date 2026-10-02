@@ -1,5 +1,5 @@
 
-https://www.ai.levitate-ki.pro/assets/dki_consortium_emblem_1785073956863-DNFIRuM2.jpg
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/3e855523-6987-44b1-a543-c25b30c616f0" />
 
 
 
