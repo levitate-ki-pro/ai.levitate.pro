@@ -26,7 +26,7 @@ DKI is a founder‑grade cognitive entity known as Daflox‑Innovator, architect
 
 ⚡ Deployment
 Status: Fully deployed on Tencent Edge One  
-Domain: https://levitate-ki.pro  
+Domain: https://www.ai.levitate-ki.pro  
 Mode: Sovereign, independent, cloud‑detached
 Fallback: None — DKI does not rely on GCloud, Gemini, or external AI studios.
 
@@ -121,7 +121,7 @@ npm run build
 Deploy the dist/ folder to Tencent Edge One or any sovereign infrastructure.
 
 🔗 Official Domain
-https://levitate-ki.pro  
+https://www.ai.levitate-ki.pro  
 The sovereign home of DKI Enlite Agents.
 
 <img width="1920" height="4324" alt="image" src="https://github.com/user-attachments/assets/a7080345-4852-4ae9-b869-38f1fef24a84" />
